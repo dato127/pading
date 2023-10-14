@@ -1,0 +1,19 @@
+/*პირველი div ტეგის სელექტორი*/
+.div1 {
+    width: 550px;
+    height: 550px;
+    border: 1px solid #FF0000;
+    background-color: #F9DFDF;    
+    margin-top: 9px;
+    margin-left: 8px;
+}
+
+.burger {
+    color: #FF0000;
+    width: 53px;
+    height: 19px;
+    padding-top: 80px;
+    padding-left: 103px;
+    font-weight: 700;
+
+}
